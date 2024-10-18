@@ -1,0 +1,7 @@
+id_deposito,warehouse_name,number_of_orders,total_orders,fulfillment_summary
+1543,KY: Centro de logistica de Somerset,548,9999,Fulfilled 0-20% of Orders
+9080,KY: Centro de logistica de Frankfort,500,9999,Fulfilled 0-20% of Orders
+2666,MI: Centro de logistica de Lansing,3178,9999,Fullfilled more than 60% of Orders
+8118,MI: Centro de logistica de Ann Arbor,3027,9999,Fullfilled more than 60% of Orders
+4338,TN: Centro de logistica de Knoxville,343,9999,Fulfilled 0-20% of Orders
+6509,TN: Centro de logistica de Memphis,2403,9999,Fullfilled more than 60% of Orders
