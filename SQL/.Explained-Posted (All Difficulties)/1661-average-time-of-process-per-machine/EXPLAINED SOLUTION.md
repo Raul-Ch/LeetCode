@@ -1,4 +1,4 @@
-https://leetcode.com/problems/average-time-of-process-per-machine/post-solution/5953893/
+# https://leetcode.com/problems/average-time-of-process-per-machine/post-solution/5953893/
 
 # Intuition
 For each process, you know when it starts and when it ends, and you're tasked with figuring out how long, on average, each machine spends running its processes. Our first instinct? **Compare the timestamps for when a process starts and when it ends, For every machine**, we calculate the difference between the end and start times for all its processes, then average those differences to get the "processing time."
