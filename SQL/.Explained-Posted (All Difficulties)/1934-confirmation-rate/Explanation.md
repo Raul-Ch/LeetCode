@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/confirmation-rate/solutions/5954945/easy-explanations-and-solutions-from-a-fellow-newbi/
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 To determine the confirmation rate for each user, we need to analyze the actions recorded in our database. Our goal is to identify how many actions are classified as "confirmed" relative to the total actions each user has taken. Our initial approach? Count the number of confirmed actions for each user and then calculate the average confirmation rate across users. 
