@@ -1,4 +1,5 @@
-​# https://leetcode.com/problems/monthly-transactions-i/solutions/5987578/easy-explanations-and-solutions-from-a-fellow-newbi/
+# https://leetcode.com/problems/monthly-transactions-i/solutions/5987578/easy-explanations-and-solutions-from-a-fellow-newbi/
+
 ​# Intuition
 Mastering Your Transaction Insights! 📊 The goal here is to analyze transactions by month and country, allowing us to derive key metrics that help us understand transaction dynamics.
 
